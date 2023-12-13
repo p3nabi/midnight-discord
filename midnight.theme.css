@@ -40,15 +40,15 @@
 	--roundness-xxs: 8px;
 
 	/* color of links */
-	--accent-1: hsl(190, 80%, 60%);
+	--accent-1: hsl(276, 80%, 60%);
 	/* color of unread dividers and some indicators */
-	--accent-2: hsl(190, 80%, 48%);
+	--accent-2: hsl(278, 80%, 48%);
 	/* color of accented buttons */
-	--accent-3: hsl(190, 80%, 42%);
+	--accent-3: hsl(271, 80%, 42%);
 	/* color of accented buttons when hovered */
-	--accent-4: hsl(190, 80%, 36%);
+	--accent-4: hsl(263, 80%, 36%);
 	/* color of accented buttons when clicked */
-	--accent-5: hsl(190, 80%, 30%);
+	--accent-5: hsl(271, 80%, 30%);
 	/* color of mentions and messages that mention you */
 	--mention: hsla(190, 80%, 52%, 0.1);
 	/* color of mentions and messages that mention you when hovered */
